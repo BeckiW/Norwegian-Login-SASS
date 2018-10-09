@@ -1,12 +1,11 @@
 import React from "react"
+import Wdget from "./widget"
 
 class App extends React.Component {
 
   render() {
     return (
-      <div>
-        Find me in src/app.js!
-      </div>
+      <Widget>
     )
   }
 
